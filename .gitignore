@@ -7,7 +7,7 @@ build/
 bin/
 reports/
 node_modules/
-vendor/
+bower_components/
 target/
 .idea/
 *.iml
